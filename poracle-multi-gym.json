@@ -23,7 +23,7 @@
                                     "longitude": #(stop.longitude),
                                     "width": 30,
                                     "height": 30,
-                                     "y_offset": -15
+                                     "y_offset": -10
                                 },
                                 #endfor
                             #endif
@@ -34,7 +34,7 @@
                                 "longitude": #(longitude),
                                 "width": 30,
                                 "height": 30,
-                                "y_offset": -15
+                                "y_offset": -10
                             }
                         ],
                         "circles": [
